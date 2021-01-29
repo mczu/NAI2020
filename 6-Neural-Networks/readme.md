@@ -19,6 +19,25 @@
   
   Solution: [Google Collab file](https://colab.research.google.com/drive/17_PpsQdO4z1NumpJFSKR9Kpa5DOTqayD?usp=sharing)
   
+  | | Network Size A | Network Size B |
+  |---|---|---|
+  | **Accuracy** | 0.8872 | 0.8854|
+  
+  Network Size A:
+  ```
+  keras.layers.Dense(300, activation = 'relu' ),
+  keras.layers.Dense(100, activation = 'relu' ),
+  keras.layers.Dense(100, activation = 'relu' ),
+  keras.layers.Dense(100, activation = 'relu' ),
+  keras.layers.Dense(10, activation = 'softmax' )])
+  ```
+  Network Size B:
+  ```
+  keras.layers.Dense(200, activation = 'relu' ),
+  keras.layers.Dense(100, activation = 'relu' ),
+  keras.layers.Dense(100, activation = 'relu' ),
+  keras.layers.Dense(10, activation = 'softmax' )])
+  ```
   
  ### Task 4
  
