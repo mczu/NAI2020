@@ -11,7 +11,7 @@
   
   ### Task 2
   
-  Solution: ()
+  Solution: [Google Collab file](https://colab.research.google.com/drive/11bgUQ4HvZo0dETI4roGbX2OzwP_nf6Wd?usp=sharing)
   
   ### Task 3
   
