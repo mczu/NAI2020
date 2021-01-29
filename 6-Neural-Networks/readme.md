@@ -10,6 +10,23 @@
   |---|---|---|
   | **Accuracy** | 0.99 | 1.0000|
   
+  | | Network Size A | Network Size B |
+  |---|---|---|
+  | **Accuracy** | 1.0000 | 1.0000|
+  | **Loss** |0.0021 |0.0066 | 
+  
+  Network Size A:
+  ```
+model.add(Dense(12, input_dim=4, activation='relu'))
+model.add(Dense(8, activation='relu'))
+model.add(Dense(1, activation='sigmoid'))
+  ```
+  Network Size B:
+  ```
+model.add(Dense(6, input_dim=4, activation='relu'))
+model.add(Dense(4, activation='relu'))
+model.add(Dense(1, activation='sigmoid'))
+  ```
   
   ### Task 2
   
