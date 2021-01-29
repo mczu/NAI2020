@@ -1,5 +1,7 @@
   ### Task 1
   
+  Dataset source: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
+  
   Solution: [Google Collab file](https://colab.research.google.com/drive/17u8sQA24676Z6BUfe5wOL5c6h0y04weQ?usp=sharing) 
   
   Accuracy comparison - Banknote Dataset
