@@ -10,3 +10,7 @@
  
  Author of the code used to render the Lunar Lander in Collab :  David R. Pugh
  [source](https://davidrpugh.github.io/stochastic-expatriate-descent/openai/binder/google-colab/2020/04/16/remote-rendering-gym-envs.html) 
+
+PyCharm instructions:
+
+- manually add package 'pybox2d'
