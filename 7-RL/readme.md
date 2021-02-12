@@ -9,3 +9,7 @@ PyCharm instructions:
 ```
 pip install -r requirements.txt
 ```
+
+To run the simulation of trained lunar lander:
+1) Download files and weights
+2) Run evaluate_model.py
